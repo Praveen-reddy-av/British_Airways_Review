@@ -76,9 +76,6 @@ print(df.head())
 - Create a **Power BI version** for comparison  
 - Add **Machine Learning model** to predict sentiment from text  
 
-## 📧 Contact  
-**Author:** *Venkatapraveen Reddy Adireddy*  
-- GitHub: *(Add your GitHub profile link here)*  
-- LinkedIn: *(Add your LinkedIn profile link here)*  
+ 
 
 ⭐ If you find this project useful, please give it a star on GitHub!
